@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-14T00:00:00.000Z",
+  "cheeses": [
+    { "id": "comte", "name": "Comté", "milk": "cow", "country": "France", "style": "hard", "aliases": ["comte"] }
+  ]
+}
