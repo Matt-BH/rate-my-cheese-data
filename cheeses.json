@@ -1,10 +1,10 @@
 {
-  "version": 4,
-  "updatedAt": "2026-01-22 T-14:27:40.400Z",
+  "version": 1.0,
+  "updatedAt": "2026-01-23T11:52:10.562Z",
   "cheeses": [
     {
       "id": "Q677640",
-      "name": "pecorino",
+      "name": "Pecorino (Unspecified)",
       "milk": "mixed",
       "country": "Italy",
       "texture": "hard",
@@ -60,7 +60,7 @@
     },
     {
       "id": "Q1086855",
-      "name": "camembert de Normandie",
+      "name": "Camembert De Normandie",
       "milk": "cow",
       "country": "France",
       "texture": "soft",
@@ -78,7 +78,7 @@
     },
     {
       "id": "Q1224461",
-      "name": "Valle d'Aosta Fromadzo",
+      "name": "Valle D'Aosta Fromadzo",
       "milk": "cow",
       "country": "Italy",
       "texture": "unknown",
@@ -108,15 +108,15 @@
     {
       "id": "Q2079846",
       "name": "Petit Quercy",
-      "milk": "mixed",
-      "country": "Unknown",
+      "milk": "goat",
+      "country": "France",
       "texture": "unknown",
       "aliases": [],
       "image": null
     },
     {
       "id": "Q2122633",
-      "name": "Queijo de Azeitão",
+      "name": "Queijo De Azeitão",
       "milk": "sheep",
       "country": "Portugal",
       "texture": "washed-rind",
@@ -143,7 +143,7 @@
     },
     {
       "id": "Q3080069",
-      "name": "Fourme de Rochefort",
+      "name": "Fourme De Rochefort",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -152,7 +152,7 @@
     },
     {
       "id": "Q3312636",
-      "name": "Nisa cheese",
+      "name": "Nisa Cheese",
       "milk": "sheep",
       "country": "Portugal",
       "texture": "unknown",
@@ -163,7 +163,7 @@
     },
     {
       "id": "Q3531219",
-      "name": "Tome du Champsaur",
+      "name": "Tome Du Champsaur",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -172,7 +172,7 @@
     },
     {
       "id": "Q3531223",
-      "name": "fresh Tomme",
+      "name": "Fresh Tomme",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -181,7 +181,7 @@
     },
     {
       "id": "Q3748120",
-      "name": "Formaggio agordino di malga",
+      "name": "Formaggio Agordino Di Malga",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -190,7 +190,7 @@
     },
     {
       "id": "Q3748124",
-      "name": "Formaggio di malga dei sette comuni",
+      "name": "Formaggio Di Malga Dei Sette Comuni",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -201,7 +201,7 @@
     },
     {
       "id": "Q3926046",
-      "name": "Puzzone di Moena",
+      "name": "Puzzone Di Moena",
       "milk": "cow",
       "country": "Italy",
       "texture": "unknown",
@@ -210,7 +210,7 @@
     },
     {
       "id": "Q3992553",
-      "name": "Toma del Mottarone",
+      "name": "Toma Del Mottarone",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -219,16 +219,7 @@
     },
     {
       "id": "Q4251439",
-      "name": "Кёр-де-Шевр",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q4251441",
-      "name": "Кёр-сандре",
+      "name": "Ko�r de Shevr",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -237,7 +228,7 @@
     },
     {
       "id": "Q4337660",
-      "name": "Ossetian cheese",
+      "name": "Ossetian Cheese",
       "milk": "mixed",
       "country": "Ossetia",
       "texture": "unknown",
@@ -246,7 +237,7 @@
     },
     {
       "id": "Q4375641",
-      "name": "Poshekhonye cheese",
+      "name": "Poshekhonye Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -264,7 +255,7 @@
     },
     {
       "id": "Q5055515",
-      "name": "Cazelle de Saint Affrique",
+      "name": "Cazelle De Saint Affrique",
       "milk": "mixed",
       "country": "France",
       "texture": "unknown",
@@ -291,7 +282,7 @@
     },
     {
       "id": "Q5184120",
-      "name": "Cremoso cheese",
+      "name": "Cremoso Cheese",
       "milk": "mixed",
       "country": "Argentina",
       "texture": "unknown",
@@ -318,7 +309,7 @@
     },
     {
       "id": "Q5589145",
-      "name": "Government cheese",
+      "name": "Government Cheese",
       "milk": "mixed",
       "country": "United States",
       "texture": "unknown",
@@ -338,7 +329,7 @@
     },
     {
       "id": "Q6094551",
-      "name": "Arribes de Salamanca Cheese",
+      "name": "Arribes De Salamanca Cheese",
       "milk": "mixed",
       "country": "Spain",
       "texture": "unknown",
@@ -347,7 +338,7 @@
     },
     {
       "id": "Q6094556",
-      "name": "Chubut cheese",
+      "name": "Chubut Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -365,7 +356,7 @@
     },
     {
       "id": "Q6470962",
-      "name": "Vlašić cheese",
+      "name": "Vlašić Cheese",
       "milk": "mixed",
       "country": "Bosnia and Herzegovina",
       "texture": "unknown",
@@ -387,7 +378,7 @@
     },
     {
       "id": "Q7166384",
-      "name": "pepper jack cheese",
+      "name": "Pepper Jack Cheese",
       "milk": "mixed",
       "country": "United States",
       "texture": "unknown",
@@ -396,7 +387,7 @@
     },
     {
       "id": "Q7259285",
-      "name": "Pule cheese",
+      "name": "Pule Cheese",
       "milk": "goat",
       "country": "Serbia",
       "texture": "unknown",
@@ -443,7 +434,7 @@
     },
     {
       "id": "Q10684425",
-      "name": "Svarta Sara (ost)",
+      "name": "Svarta Sara (Ost)",
       "milk": "mixed",
       "country": "Denmark",
       "texture": "unknown",
@@ -452,7 +443,7 @@
     },
     {
       "id": "Q11701587",
-      "name": "Acehúche cheese",
+      "name": "Acehúche Cheese",
       "milk": "mixed",
       "country": "Spain",
       "texture": "unknown",
@@ -479,7 +470,7 @@
     },
     {
       "id": "Q12275182",
-      "name": "Abbey of Westmalle",
+      "name": "Abbey Of Westmalle",
       "milk": "mixed",
       "country": "Belgium",
       "texture": "unknown",
@@ -526,7 +517,7 @@
     },
     {
       "id": "Q16359149",
-      "name": "Jāņi cheese",
+      "name": "Jāņi Cheese",
       "milk": "mixed",
       "country": "Latvia",
       "texture": "unknown",
@@ -537,7 +528,7 @@
     },
     {
       "id": "Q16852388",
-      "name": "Kars gravyer cheese",
+      "name": "Kars Gravyer Cheese",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -555,7 +546,7 @@
     },
     {
       "id": "Q16952139",
-      "name": "Cougar Gold cheese",
+      "name": "Cougar Gold Cheese",
       "milk": "mixed",
       "country": "United States",
       "texture": "unknown",
@@ -564,7 +555,7 @@
     },
     {
       "id": "Q17067155",
-      "name": "balkánský sýr",
+      "name": "Balkánský Sýr",
       "milk": "mixed",
       "country": "Slovakia",
       "texture": "unknown",
@@ -591,7 +582,7 @@
     },
     {
       "id": "Q20009623",
-      "name": "Caciotta al tartufo",
+      "name": "Caciotta Al Tartufo",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -682,15 +673,6 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1070282%20Lori%20Cheese%20%28%D4%BC%D5%B8%D5%BC%D5%AB%20%D5%BA%D5%A1%D5%B6%D5%AB%D6%80%29%20Armenia%20260408.jpg"
     },
     {
-      "id": "Q60852147",
-      "name": "Балкарский сыр",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q65242480",
       "name": "Piimäjuusto",
       "milk": "mixed",
@@ -701,7 +683,7 @@
     },
     {
       "id": "Q79087543",
-      "name": "Camoscio d'oro",
+      "name": "Camoscio D'Oro",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -710,7 +692,7 @@
     },
     {
       "id": "Q79090568",
-      "name": "Caciotta marchigiana",
+      "name": "Caciotta Marchigiana",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -719,7 +701,7 @@
     },
     {
       "id": "Q79148257",
-      "name": "Banbury cheese",
+      "name": "Banbury Cheese",
       "milk": "cow",
       "country": "England",
       "texture": "unknown",
@@ -737,7 +719,7 @@
     },
     {
       "id": "Q84759802",
-      "name": "Seirass di latte",
+      "name": "Seirass Di Latte",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -746,7 +728,7 @@
     },
     {
       "id": "Q85862852",
-      "name": "Formaggini di Montevecchia",
+      "name": "Formaggini Di Montevecchia",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -755,24 +737,12 @@
     },
     {
       "id": "Q85998157",
-      "name": "Prljo cheese",
+      "name": "Prljo Cheese",
       "milk": "mixed",
       "country": "Montenegro",
       "texture": "unknown",
       "aliases": [],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Montenegrin%20cheese%20Prljo%2004.jpg"
-    },
-    {
-      "id": "Q14088",
-      "name": "mozzarella",
-      "milk": "cow",
-      "country": "Italy",
-      "texture": "fresh",
-      "aliases": [
-        "mozzarella cheese",
-        "Cookbook:Mozzarella Cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mozzarella%20di%20bufala3.jpg"
     },
     {
       "id": "Q58730",
@@ -793,20 +763,6 @@
       "image": null
     },
     {
-      "id": "Q155922",
-      "name": "Parmesan",
-      "milk": "mixed",
-      "country": "Italy",
-      "texture": "hard",
-      "aliases": [
-        "Parmigiano-Reggiano",
-        "Parmigiano Reggiano",
-        "Parmigiano",
-        "Parmesan cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigiano%20reggiano%20piece.jpg"
-    },
-    {
       "id": "Q170049",
       "name": "Reggianito",
       "milk": "mixed",
@@ -817,7 +773,7 @@
     },
     {
       "id": "Q189221",
-      "name": "Roquefort cheese",
+      "name": "Roquefort Cheese",
       "milk": "sheep",
       "country": "France",
       "texture": "blue",
@@ -828,7 +784,7 @@
     },
     {
       "id": "Q249310",
-      "name": "Comté cheese",
+      "name": "Comté Cheese",
       "milk": "cow",
       "country": "France",
       "texture": "hard",
@@ -839,7 +795,7 @@
     },
     {
       "id": "Q322899",
-      "name": "abondance",
+      "name": "Abondance",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -914,7 +870,7 @@
     },
     {
       "id": "Q1215556",
-      "name": "Cheese from l'Alt Urgell y la Cerdanya",
+      "name": "Cheese From L'Alt Urgell Y La Cerdanya",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -925,7 +881,7 @@
     },
     {
       "id": "Q1231562",
-      "name": "Ibores cheese",
+      "name": "Ibores Cheese",
       "milk": "goat",
       "country": "Spain",
       "texture": "unknown",
@@ -934,7 +890,7 @@
     },
     {
       "id": "Q1246800",
-      "name": "Afuega'l pitu",
+      "name": "Afuega'L Pitu",
       "milk": "cow",
       "country": "Spain",
       "texture": "unknown",
@@ -945,7 +901,7 @@
     },
     {
       "id": "Q1246813",
-      "name": "Valdeón cheese",
+      "name": "Valdeón Cheese",
       "milk": "cow",
       "country": "Spain",
       "texture": "blue",
@@ -956,21 +912,12 @@
     },
     {
       "id": "Q1283428",
-      "name": "Pag cheese",
+      "name": "Pag Cheese",
       "milk": "mixed",
       "country": "Croatia",
       "texture": "unknown",
       "aliases": [],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%A1ki%20sir.JPG"
-    },
-    {
-      "id": "Q1367660",
-      "name": "semi-solid semi-hard cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "semi-hard",
-      "aliases": [],
-      "image": null
     },
     {
       "id": "Q1392479",
@@ -984,20 +931,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Contour%20de%20l%27%C3%89tivaz-Dia%20247-12675.tiff"
     },
     {
-      "id": "Q1411808",
-      "name": "sheep milk cheese",
-      "milk": "sheep",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "sheep's-milk cheese",
-        "sheep cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pecorino%20Rosso%20Volterrano%20one%20Quarter%20on%20whole%20TOTAL.jpg"
-    },
-    {
       "id": "Q1412505",
-      "name": "pasta filata",
+      "name": "Pasta Filata",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1014,19 +949,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20Queso%20Mexicano%20Oaxaca.jpg"
     },
     {
-      "id": "Q1412674",
-      "name": "pressed cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "Granular cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigiano%20reggiano%20piece.jpg"
-    },
-    {
       "id": "Q1531597",
-      "name": "raw-milk cheese",
+      "name": "Raw-Milk Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1036,21 +960,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roquefort.jpg"
     },
     {
-      "id": "Q1570052",
-      "name": "processed cheese",
-      "milk": "mixed",
-      "country": "Switzerland",
-      "texture": "unknown",
-      "aliases": [
-        "process cheese",
-        "pasteurized process cheese",
-        "cheese food"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hickory%20Farms%20Product.jpg"
-    },
-    {
       "id": "Q2940385",
-      "name": "Carré de Bray",
+      "name": "Carré De Bray",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1061,7 +972,7 @@
     },
     {
       "id": "Q2940396",
-      "name": "carré du Poitou",
+      "name": "Carré Du Poitou",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1088,7 +999,7 @@
     },
     {
       "id": "Q2961710",
-      "name": "Chaux-d'Abel",
+      "name": "Chaux-D'Abel",
       "milk": "mixed",
       "country": "Switzerland",
       "texture": "unknown",
@@ -1106,7 +1017,7 @@
     },
     {
       "id": "Q3037288",
-      "name": "doré-mi",
+      "name": "Doré-Mi",
       "milk": "mixed",
       "country": "Canada",
       "texture": "unknown",
@@ -1115,7 +1026,7 @@
     },
     {
       "id": "Q3041621",
-      "name": "Durrus cheese",
+      "name": "Durrus Cheese",
       "milk": "cow",
       "country": "Ireland",
       "texture": "washed-rind",
@@ -1150,56 +1061,13 @@
       "image": null
     },
     {
-      "id": "Q3088299",
-      "name": "cow's-milk cheese",
-      "milk": "cow",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "cow cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Danbo%20Cheese.jpg"
-    },
-    {
-      "id": "Q131480",
-      "name": "Camembert",
-      "milk": "mixed",
-      "country": "France",
-      "texture": "soft",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camembert.jpg"
-    },
-    {
-      "id": "Q198815",
-      "name": "goat cheese",
-      "milk": "goat",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "goat's-milk cheese",
-        "goat's cheese",
-        "chèvre",
-        "chevre"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crottin%2002.jpg"
-    },
-    {
       "id": "Q319716",
-      "name": "Abertam cheese",
+      "name": "Abertam Cheese",
       "milk": "sheep",
       "country": "Czech Republic",
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q391604",
-      "name": "mould cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blauschimmelk%C3%A4se.jpg"
     },
     {
       "id": "Q476512",
@@ -1214,7 +1082,7 @@
     },
     {
       "id": "Q540837",
-      "name": "Kopanisti mykonou",
+      "name": "Kopanisti Mykonou",
       "milk": "mixed",
       "country": "Greece",
       "texture": "unknown",
@@ -1223,7 +1091,7 @@
     },
     {
       "id": "Q644682",
-      "name": "Délice de Bourgogne",
+      "name": "Délice De Bourgogne",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -1311,7 +1179,7 @@
     },
     {
       "id": "Q925437",
-      "name": "Minas cheese",
+      "name": "Minas Cheese",
       "milk": "cow",
       "country": "Brazil",
       "texture": "unknown",
@@ -1321,20 +1189,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queijo%20Minas%20Frescal.JPG"
     },
     {
-      "id": "Q1020491",
-      "name": "buffalo's milk-cheese",
-      "milk": "buffalo",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "list of water buffalo cheeses",
-        "buffalo cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mozzarella%20di%20bufala2.jpg"
-    },
-    {
       "id": "Q1046941",
-      "name": "casciotta d'Urbino",
+      "name": "Casciotta D'Urbino",
       "milk": "sheep",
       "country": "Italy",
       "texture": "unknown",
@@ -1351,19 +1207,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CashelBlue.JPG"
     },
     {
-      "id": "Q3088300",
-      "name": "yak's milk cheese",
-      "milk": "mixed",
-      "country": "Nepal",
-      "texture": "unknown",
-      "aliases": [
-        "yak cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yunnan%20woman%20with%20yak%20cheese.jpg"
-    },
-    {
       "id": "Q3088311",
-      "name": "fromage de Bagnes",
+      "name": "Fromage De Bagnes",
       "milk": "cow",
       "country": "Switzerland",
       "texture": "unknown",
@@ -1371,19 +1216,8 @@
       "image": null
     },
     {
-      "id": "Q3088318",
-      "name": "farmstead cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "farmhouse cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20rarebit.JPG"
-    },
-    {
       "id": "Q3088322",
-      "name": "Brussels cheese",
+      "name": "Brussels Cheese",
       "milk": "mixed",
       "country": "Belgium",
       "texture": "unknown",
@@ -1395,153 +1229,10 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brusselse%20kaas.JPG"
     },
     {
-      "id": "Q3088323",
-      "name": "industrial cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "mass-produced cheese"
-      ],
-      "image": null
-    },
-    {
-      "id": "Q3088336",
-      "name": "grated cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "shredded cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grated%20cheese%20Annie%20Mole.jpg"
-    },
-    {
-      "id": "Q3088345",
-      "name": "mixed milk cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greek%20feta.jpg"
-    },
-    {
-      "id": "Q3088351",
-      "name": "Austrian cheese",
-      "milk": "mixed",
-      "country": "Austria",
-      "texture": "unknown",
-      "aliases": [
-        "Austrian cheeses"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4seplatte%209481.JPG"
-    },
-    {
-      "id": "Q3088349",
-      "name": "Australian cheese",
-      "milk": "mixed",
-      "country": "Australia",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q3088354",
-      "name": "fromage chypriote",
+      "name": "Fromage Chypriote",
       "milk": "mixed",
       "country": "Cyprus",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088359",
-      "name": "cheese from Finland",
-      "milk": "mixed",
-      "country": "Finland",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leip%C3%A4juusto%20cheese%20with%20cloudberry%20jam.jpg"
-    },
-    {
-      "id": "Q3088357",
-      "name": "Danish cheese",
-      "milk": "mixed",
-      "country": "Denmark",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Blue%20cheese.jpg"
-    },
-    {
-      "id": "Q3088360",
-      "name": "Hungarian cheese",
-      "milk": "mixed",
-      "country": "Hungary",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088361",
-      "name": "Indian cheese",
-      "milk": "mixed",
-      "country": "India",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088365",
-      "name": "Norwegian cheese",
-      "milk": "mixed",
-      "country": "Norway",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088370",
-      "name": "Peruvian cheese",
-      "milk": "mixed",
-      "country": "Peru",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088371",
-      "name": "Portuguese cheese",
-      "milk": "mixed",
-      "country": "Portugal",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queijo%20de%20Nisa%20%284198493590%29.jpg"
-    },
-    {
-      "id": "Q3088374",
-      "name": "Slovak cheese",
-      "milk": "mixed",
-      "country": "Slovakia",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q3088375",
-      "name": "Swedish cheese",
-      "milk": "mixed",
-      "country": "Sweden",
-      "texture": "unknown",
-      "aliases": [
-        "Swedish cheeses"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herrgardsost%202008.jpg"
-    },
-    {
-      "id": "Q3088373",
-      "name": "Romanian cheese",
-      "milk": "mixed",
-      "country": "Romania",
       "texture": "unknown",
       "aliases": [],
       "image": null
@@ -1557,7 +1248,7 @@
     },
     {
       "id": "Q3111568",
-      "name": "Gouda français",
+      "name": "Gouda Français",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1566,7 +1257,7 @@
     },
     {
       "id": "Q3116970",
-      "name": "Gros-de-vaud",
+      "name": "Gros-De-Vaud",
       "milk": "cow",
       "country": "Switzerland",
       "texture": "unknown",
@@ -1584,7 +1275,7 @@
     },
     {
       "id": "Q3183584",
-      "name": "tulum cheese",
+      "name": "Tulum Cheese",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -1620,7 +1311,7 @@
     },
     {
       "id": "Q3296415",
-      "name": "Sakura cheese",
+      "name": "Sakura Cheese",
       "milk": "mixed",
       "country": "Japan",
       "texture": "unknown",
@@ -1639,19 +1330,8 @@
       "image": null
     },
     {
-      "id": "Q3323634",
-      "name": "fresh cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "fresh cheeses"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87erkes%20peyniri%20from%20Turkey.jpg"
-    },
-    {
       "id": "Q3388348",
-      "name": "Pikauba (cheese)",
+      "name": "Pikauba (Cheese)",
       "milk": "cow",
       "country": "Canada",
       "texture": "unknown",
@@ -1669,7 +1349,7 @@
     },
     {
       "id": "Q3427558",
-      "name": "requeijão",
+      "name": "Requeijão",
       "milk": "cow",
       "country": "Brazil",
       "texture": "unknown",
@@ -1678,7 +1358,7 @@
     },
     {
       "id": "Q3437219",
-      "name": "Livno cheese",
+      "name": "Livno Cheese",
       "milk": "cow",
       "country": "Bosnia and Herzegovina",
       "texture": "unknown",
@@ -1689,7 +1369,7 @@
     },
     {
       "id": "Q3531279",
-      "name": "Tomme de Gressoney",
+      "name": "Tomme De Gressoney",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -1698,7 +1378,7 @@
     },
     {
       "id": "Q3531281",
-      "name": "Tomme de l'Ubaye",
+      "name": "Tomme De L'Ubaye",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1707,7 +1387,7 @@
     },
     {
       "id": "Q3531285",
-      "name": "Tomme du Jura",
+      "name": "Tomme Du Jura",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1725,7 +1405,7 @@
     },
     {
       "id": "Q3538049",
-      "name": "Trappe de Bricquebec",
+      "name": "Trappe De Bricquebec",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1740,15 +1420,6 @@
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q3539512",
-      "name": "triple cream",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brillat-savarin.jpg"
     },
     {
       "id": "Q3542650",
@@ -1770,7 +1441,7 @@
     },
     {
       "id": "Q3557655",
-      "name": "Victor et Berthold",
+      "name": "Victor Et Berthold",
       "milk": "cow",
       "country": "Canada",
       "texture": "unknown",
@@ -1788,7 +1459,7 @@
     },
     {
       "id": "Q3748123",
-      "name": "Formaggio di Fossa",
+      "name": "Formaggio Di Fossa",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -1796,21 +1467,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Formaggio%20di%20fossa.jpg"
     },
     {
-      "id": "Q3774485",
-      "name": "washed-rind cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "washed-rind",
-      "aliases": [
-        "washed-rind soft cheese",
-        "washed-rind hard cheese",
-        "smear-ripened cheese"
-      ],
-      "image": null
-    },
-    {
       "id": "Q4117114",
-      "name": "Swiss cheese",
+      "name": "Swiss Cheese (Unspecified)",
       "milk": "mixed",
       "country": "United States",
       "texture": "unknown",
@@ -1819,7 +1477,7 @@
     },
     {
       "id": "Q4121172",
-      "name": "Rumi cheese",
+      "name": "Rumi Cheese",
       "milk": "mixed",
       "country": "Egypt",
       "texture": "unknown",
@@ -1828,7 +1486,7 @@
     },
     {
       "id": "Q4219778",
-      "name": "Queso de Mano",
+      "name": "Queso De Mano",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1837,7 +1495,7 @@
     },
     {
       "id": "Q4801204",
-      "name": "formatge artesà",
+      "name": "Formatge Artesà",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1846,7 +1504,7 @@
     },
     {
       "id": "Q4818570",
-      "name": "Queijo prata",
+      "name": "Queijo Prata",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1855,7 +1513,7 @@
     },
     {
       "id": "Q4854506",
-      "name": "Bandel cheese",
+      "name": "Bandel Cheese",
       "milk": "mixed",
       "country": "Portuguese India",
       "texture": "unknown",
@@ -1864,7 +1522,7 @@
     },
     {
       "id": "Q4965959",
-      "name": "brick cheese",
+      "name": "Brick Cheese",
       "milk": "mixed",
       "country": "United States",
       "texture": "unknown",
@@ -1872,40 +1530,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brickcheese.jpg"
     },
     {
-      "id": "Q5089401",
-      "name": "Cheese in Canada",
-      "milk": "mixed",
-      "country": "Canada",
-      "texture": "unknown",
-      "aliases": [
-        "Canadian cheese"
-      ],
-      "image": null
-    },
-    {
-      "id": "Q5089407",
-      "name": "cheese spread",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dutch%20cheese%20spread.jpg"
-    },
-    {
-      "id": "Q5089436",
-      "name": "Mexican cheese",
-      "milk": "mixed",
-      "country": "Mexico",
-      "texture": "unknown",
-      "aliases": [
-        "Cheeses of Mexico",
-        "Cheese of Mexico"
-      ],
-      "image": null
-    },
-    {
       "id": "Q5414737",
-      "name": "hebra cheese",
+      "name": "Hebra Cheese",
       "milk": "mixed",
       "country": "Mexico",
       "texture": "unknown",
@@ -1915,44 +1541,12 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20Queso%20Mexicano%20Oaxaca.jpg"
     },
     {
-      "id": "Q5435749",
-      "name": "farmer cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "farmers' cheese",
-        "farmer's cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmer%20Cheese.jpeg"
-    },
-    {
       "id": "Q5489566",
-      "name": "sfela",
+      "name": "Sfela",
       "milk": "mixed",
       "country": "Greece",
       "texture": "unknown",
       "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q5548067",
-      "name": "Georgian cheese",
-      "milk": "mixed",
-      "country": "Georgia",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q5620025",
-      "name": "brined cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "pickled cheese"
-      ],
       "image": null
     },
     {
@@ -1968,7 +1562,7 @@
     },
     {
       "id": "Q5996951",
-      "name": "Ezine peyniri",
+      "name": "Ezine Peyniri",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -1979,7 +1573,7 @@
     },
     {
       "id": "Q6094372",
-      "name": "queijos da Beira Baixa",
+      "name": "Queijos Da Beira Baixa",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -1993,7 +1587,7 @@
     },
     {
       "id": "Q6395121",
-      "name": "kesong puti",
+      "name": "Kesong Puti",
       "milk": "mixed",
       "country": "Philippines",
       "texture": "unknown",
@@ -2003,26 +1597,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kesong%20puti.jpg"
     },
     {
-      "id": "Q6744258",
-      "name": "Mallorca cheese",
-      "milk": "mixed",
-      "country": "Spain",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queso%20mallorqu%C3%ADn%20%28vaca%29.jpg"
-    },
-    {
-      "id": "Q6812442",
-      "name": "Circassian cheese",
-      "milk": "mixed",
-      "country": "Russia",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%8B%D1%80.jpg"
-    },
-    {
       "id": "Q7220270",
-      "name": "kashkaval",
+      "name": "Kashkaval",
       "milk": "sheep",
       "country": "Serbia",
       "texture": "unknown",
@@ -2036,7 +1612,7 @@
     },
     {
       "id": "Q7528243",
-      "name": "Sir Laurier d'Arthabaska",
+      "name": "Sir Laurier D'Arthabaska",
       "milk": "mixed",
       "country": "Canada",
       "texture": "unknown",
@@ -2045,7 +1621,7 @@
     },
     {
       "id": "Q7724204",
-      "name": "kaasmerk",
+      "name": "Kaasmerk",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2054,7 +1630,7 @@
     },
     {
       "id": "Q7780958",
-      "name": "Dali ni Horbo",
+      "name": "Dali Ni Horbo",
       "milk": "mixed",
       "country": "Indonesia",
       "texture": "unknown",
@@ -2063,7 +1639,7 @@
     },
     {
       "id": "Q7939018",
-      "name": "vlaskaas",
+      "name": "Vlaskaas",
       "milk": "mixed",
       "country": "Netherlands",
       "texture": "unknown",
@@ -2090,7 +1666,7 @@
     },
     {
       "id": "Q8245014",
-      "name": "Bavaria blu",
+      "name": "Bavaria Blu",
       "milk": "mixed",
       "country": "Germany",
       "texture": "blue",
@@ -2099,7 +1675,7 @@
     },
     {
       "id": "Q9017517",
-      "name": "khoa",
+      "name": "Khoa",
       "milk": "cow",
       "country": "India",
       "texture": "unknown",
@@ -2120,7 +1696,7 @@
     },
     {
       "id": "Q9065235",
-      "name": "Palmero cheese",
+      "name": "Palmero Cheese",
       "milk": "goat",
       "country": "Spain",
       "texture": "unknown",
@@ -2130,17 +1706,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queso%20Palmero.jpg"
     },
     {
-      "id": "Q9335663",
-      "name": "rennet cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sery%20podpuszczkowe.JPG"
-    },
-    {
       "id": "Q9788727",
-      "name": "Queijo cobocó",
+      "name": "Queijo Cobocó",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2158,7 +1725,7 @@
     },
     {
       "id": "Q10356078",
-      "name": "Reĝlanda fromaĝo",
+      "name": "Reĝlanda Fromaĝo",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2167,7 +1734,7 @@
     },
     {
       "id": "Q10370549",
-      "name": "Queijo do Serro",
+      "name": "Queijo Do Serro",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2185,7 +1752,7 @@
     },
     {
       "id": "Q25706007",
-      "name": "Adyge schchyncher",
+      "name": "Adyge Schchyncher",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2212,7 +1779,7 @@
     },
     {
       "id": "Q108112946",
-      "name": "Brânză de vaci",
+      "name": "Brânză De Vaci",
       "milk": "mixed",
       "country": "Moldova",
       "texture": "unknown",
@@ -2221,7 +1788,7 @@
     },
     {
       "id": "Q108170369",
-      "name": "plattekaas",
+      "name": "Plattekaas",
       "milk": "mixed",
       "country": "Belgium",
       "texture": "unknown",
@@ -2233,7 +1800,7 @@
     },
     {
       "id": "Q109017681",
-      "name": "Bray picard",
+      "name": "Bray Picard",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2242,7 +1809,7 @@
     },
     {
       "id": "Q109019562",
-      "name": "Cru des Fagnes",
+      "name": "Cru Des Fagnes",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2251,7 +1818,7 @@
     },
     {
       "id": "Q109042056",
-      "name": "L'Estival (marque fromagère)",
+      "name": "L'Estival (Marque Fromagère)",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2260,7 +1827,7 @@
     },
     {
       "id": "Q109042764",
-      "name": "Le Cru du Clocher",
+      "name": "Le Cru Du Clocher",
       "milk": "mixed",
       "country": "Canada",
       "texture": "unknown",
@@ -2286,21 +1853,8 @@
       "image": null
     },
     {
-      "id": "Q111835885",
-      "name": "Argentine cheese",
-      "milk": "mixed",
-      "country": "Argentina",
-      "texture": "unknown",
-      "aliases": [
-        "Cheeses of Argentina",
-        "Cheeses from Argentina",
-        "Cheese in Argentina"
-      ],
-      "image": null
-    },
-    {
       "id": "Q111914931",
-      "name": "Enzyme-modified cheese",
+      "name": "Enzyme-Modified Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2315,15 +1869,6 @@
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q113756309",
-      "name": "hard cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "hard",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WikiCheese%20-%20Mimolette%20extra%20vieille%2001.jpg"
     },
     {
       "id": "Q114634252",
@@ -2354,7 +1899,7 @@
     },
     {
       "id": "Q115686593",
-      "name": "Tome de Bray",
+      "name": "Tome De Bray",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -2363,7 +1908,7 @@
     },
     {
       "id": "Q115686609",
-      "name": "Meule de Bray",
+      "name": "Meule De Bray",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -2399,7 +1944,7 @@
     },
     {
       "id": "Q117359905",
-      "name": "Silandro leggero",
+      "name": "Silandro Leggero",
       "milk": "cow",
       "country": "Italy",
       "texture": "unknown",
@@ -2408,7 +1953,7 @@
     },
     {
       "id": "Q120446101",
-      "name": "Caciofiore aquilano",
+      "name": "Caciofiore Aquilano",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2417,7 +1962,7 @@
     },
     {
       "id": "Q120961739",
-      "name": "Wyfe of Bath",
+      "name": "Wyfe Of Bath",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2448,7 +1993,7 @@
     },
     {
       "id": "Q121757100",
-      "name": "Cheese (Shirak)",
+      "name": "Shirak",
       "milk": "mixed",
       "country": "Shirak Province",
       "texture": "unknown",
@@ -2456,17 +2001,8 @@
       "image": null
     },
     {
-      "id": "Q123160832",
-      "name": "white cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q123199835",
-      "name": "Fourme d'Yssingeaux",
+      "name": "Fourme D'Yssingeaux",
       "milk": "cow",
       "country": "France",
       "texture": "blue",
@@ -2503,33 +2039,13 @@
       "image": null
     },
     {
-      "id": "Q124982195",
-      "name": "Slovenian cheese",
-      "milk": "mixed",
-      "country": "Slovenia",
-      "texture": "unknown",
-      "aliases": [
-        "Slovene cheese"
-      ],
-      "image": null
-    },
-    {
       "id": "Q125871252",
-      "name": "câilles",
+      "name": "Câilles",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q126163056",
-      "name": "Cheese horses",
-      "milk": "mixed",
-      "country": "Ukraine",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kompozycja.jpg"
     },
     {
       "id": "Q129785793",
@@ -2565,26 +2081,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lanche%20Snack%20by%20Robbie%20Conceptuel.png"
     },
     {
-      "id": "Q130752173",
-      "name": "semi-soft cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "semi-soft",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q131588653",
-      "name": "المش الحجازي",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q131757744",
-      "name": "Hutsul bryndza",
+      "name": "Hutsul Bryndza",
       "milk": "cow",
       "country": "Carpathians",
       "texture": "unknown",
@@ -2593,7 +2091,7 @@
     },
     {
       "id": "Q131989100",
-      "name": "queso Yamandú",
+      "name": "Queso Yamandú",
       "milk": "mixed",
       "country": "Uruguay",
       "texture": "unknown",
@@ -2602,7 +2100,7 @@
     },
     {
       "id": "Q133235403",
-      "name": "Mklats panir",
+      "name": "Mklats Panir",
       "milk": "mixed",
       "country": "Armenia",
       "texture": "unknown",
@@ -2615,7 +2113,7 @@
     },
     {
       "id": "Q133896378",
-      "name": "Ktor panir",
+      "name": "Ktor Panir",
       "milk": "mixed",
       "country": "Armenia",
       "texture": "unknown",
@@ -2624,7 +2122,7 @@
     },
     {
       "id": "Q134043310",
-      "name": "Tel panir",
+      "name": "Tel Panir",
       "milk": "mixed",
       "country": "Armenia",
       "texture": "unknown",
@@ -2633,7 +2131,7 @@
     },
     {
       "id": "Q134885329",
-      "name": "Lećevački cheese",
+      "name": "Lećevački Cheese",
       "milk": "mixed",
       "country": "Croatia",
       "texture": "unknown",
@@ -2651,7 +2149,7 @@
     },
     {
       "id": "Q136087957",
-      "name": "Toumin dal Mel",
+      "name": "Toumin Dal Mel",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -2660,7 +2158,7 @@
     },
     {
       "id": "Q136472283",
-      "name": "Maigre du Nord",
+      "name": "Maigre Du Nord",
       "milk": "mixed",
       "country": "Belgium",
       "texture": "unknown",
@@ -2678,7 +2176,7 @@
     },
     {
       "id": "Q136689274",
-      "name": "Queso andino",
+      "name": "Queso Andino",
       "milk": "mixed",
       "country": "Bolivia",
       "texture": "unknown",
@@ -2696,21 +2194,12 @@
     },
     {
       "id": "Q136804195",
-      "name": "Meule du Plateau",
+      "name": "Meule Du Plateau",
       "milk": "mixed",
       "country": "Belgium",
       "texture": "unknown",
       "aliases": [],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meule%20du%20Plateau%20cheese%20wheels%20in%20the%20ripening%20cellar%2C%20Terre%20de%20fromages%2C%20Herve%2C%202025.jpg"
-    },
-    {
-      "id": "Q136842707",
-      "name": "Сушена бринза",
-      "milk": "mixed",
-      "country": "Bulgaria",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
     },
     {
       "id": "Q137184230",
@@ -2723,7 +2212,7 @@
     },
     {
       "id": "Q137398510",
-      "name": "Aragatsyan panir",
+      "name": "Aragatsyan Panir",
       "milk": "sheep",
       "country": "Armenia",
       "texture": "unknown",
@@ -2734,7 +2223,7 @@
     },
     {
       "id": "Q137808644",
-      "name": "tomme de Berry au pesto basilic",
+      "name": "Tomme De Berry Au Pesto Basilic",
       "milk": "cow",
       "country": "France",
       "texture": "unknown",
@@ -2742,17 +2231,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Packshot%20-%20Tomme%20du%20Berry%20au%20pesto%20%2824382897667%29.jpg"
     },
     {
-      "id": "Q1597325",
-      "name": "semi-hard cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "semi-hard",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fontal%20suisse1.JPG"
-    },
-    {
       "id": "Q1626037",
-      "name": "Maredsous cheese",
+      "name": "Maredsous Cheese",
       "milk": "cow",
       "country": "Slovakia",
       "texture": "unknown",
@@ -2761,7 +2241,7 @@
     },
     {
       "id": "Q1737615",
-      "name": "kaşar",
+      "name": "Kaşar",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -2783,7 +2263,7 @@
     },
     {
       "id": "Q1897605",
-      "name": "beyaz peynir",
+      "name": "Beyaz Peynir",
       "milk": "sheep",
       "country": "Turkey",
       "texture": "unknown",
@@ -2791,46 +2271,6 @@
         "Turkish white cheese"
       ],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ezine%20peyniri.jpg"
-    },
-    {
-      "id": "Q1943539",
-      "name": "whey cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Orda-sajt.jpg"
-    },
-    {
-      "id": "Q2069008",
-      "name": "abbey cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q2223649",
-      "name": "French cheese",
-      "milk": "mixed",
-      "country": "France",
-      "texture": "unknown",
-      "aliases": [
-        "cheese from France"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Variedad%20de%20quesos%20franceses.jpg"
-    },
-    {
-      "id": "Q2227260",
-      "name": "acid-set cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "sour milk cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauermilchkaese%20diverse.jpg"
     },
     {
       "id": "Q2305824",
@@ -2843,7 +2283,7 @@
     },
     {
       "id": "Q2433798",
-      "name": "Tilsit cheese",
+      "name": "Tilsit Cheese",
       "milk": "cow",
       "country": "Germany",
       "texture": "unknown",
@@ -2852,7 +2292,7 @@
     },
     {
       "id": "Q2613548",
-      "name": "Chura kampo",
+      "name": "Chura Kampo",
       "milk": "mixed",
       "country": "Tibet Autonomous Region",
       "texture": "unknown",
@@ -2860,20 +2300,8 @@
       "image": null
     },
     {
-      "id": "Q2632885",
-      "name": "smoked cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "uzené sýry",
-        "Rauchkäse"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Smoked%20Gruy%C3%A8re%20cheese.jpg"
-    },
-    {
       "id": "Q2667800",
-      "name": "Chura loenpa",
+      "name": "Chura Loenpa",
       "milk": "sheep",
       "country": "Tibet Autonomous Region",
       "texture": "unknown",
@@ -2897,15 +2325,6 @@
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q2829940",
-      "name": "Tibetan cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tibetan%20cheeses%20-%20Zhongdian%20Market%20%284150211480%29.jpg"
     },
     {
       "id": "Q2851769",
@@ -2938,7 +2357,7 @@
     },
     {
       "id": "Q2925189",
-      "name": "brie noir",
+      "name": "Brie Noir",
       "milk": "cow",
       "country": "Unknown",
       "texture": "soft",
@@ -2949,7 +2368,7 @@
     },
     {
       "id": "Q2932436",
-      "name": "Cabreiro de Castelo Branco",
+      "name": "Cabreiro De Castelo Branco",
       "milk": "goat",
       "country": "Portugal",
       "texture": "unknown",
@@ -2967,7 +2386,7 @@
     },
     {
       "id": "Q2936862",
-      "name": "Cantonnier (fromage)",
+      "name": "Cantonnier (Fromage)",
       "milk": "cow",
       "country": "Canada",
       "texture": "washed-rind",
@@ -3003,7 +2422,7 @@
     },
     {
       "id": "Q10509617",
-      "name": "Grynpipig ost",
+      "name": "Grynpipig Ost",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3030,7 +2449,7 @@
     },
     {
       "id": "Q11001474",
-      "name": "Casín cheese",
+      "name": "Casín Cheese",
       "milk": "mixed",
       "country": "Spain",
       "texture": "unknown",
@@ -3041,7 +2460,7 @@
     },
     {
       "id": "Q11159183",
-      "name": "Blaťácké zlato",
+      "name": "Blaťácké Zlato",
       "milk": "mixed",
       "country": "Czech Republic",
       "texture": "unknown",
@@ -3058,30 +2477,8 @@
       "image": null
     },
     {
-      "id": "Q11579286",
-      "name": "bloomy rind cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "white cheese"
-      ],
-      "image": null
-    },
-    {
-      "id": "Q11604445",
-      "name": "powdered cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "cheese powder"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20little%20bottle%20Cheese%20powder.jpg"
-    },
-    {
       "id": "Q11706433",
-      "name": "Bánovecké syrečky",
+      "name": "Bánovecké Syrečky",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3117,7 +2514,7 @@
     },
     {
       "id": "Q12034453",
-      "name": "Lučina (sýr)",
+      "name": "Lučina (Sýr)",
       "milk": "mixed",
       "country": "Czech Republic",
       "texture": "unknown",
@@ -3126,7 +2523,7 @@
     },
     {
       "id": "Q12040362",
-      "name": "Nakládaný hermelín",
+      "name": "Nakládaný Hermelín",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3135,7 +2532,7 @@
     },
     {
       "id": "Q12046987",
-      "name": "Pribina (sýr)",
+      "name": "Pribina (Sýr)",
       "milk": "mixed",
       "country": "Czech Republic",
       "texture": "unknown",
@@ -3143,17 +2540,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pribina%201.JPG"
     },
     {
-      "id": "Q12279211",
-      "name": "Дунавия",
-      "milk": "cow",
-      "country": "Bulgaria",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q12284060",
-      "name": "Queso (crema)",
+      "name": "Queso (Crema)",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3171,7 +2559,7 @@
     },
     {
       "id": "Q12659878",
-      "name": "Žemaitiškas kastinys",
+      "name": "Žemaitiškas Kastinys",
       "milk": "mixed",
       "country": "Lithuania",
       "texture": "unknown",
@@ -3189,7 +2577,7 @@
     },
     {
       "id": "Q14258350",
-      "name": "fromage frais",
+      "name": "Fromage Frais",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3204,17 +2592,6 @@
       "texture": "unknown",
       "aliases": [],
       "image": null
-    },
-    {
-      "id": "Q15875509",
-      "name": "cheese with holes",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "Swiss cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swiss%20cheese%20cubes.jpg"
     },
     {
       "id": "Q16131633",
@@ -3235,26 +2612,8 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qurut%20tajikistan.jpg"
     },
     {
-      "id": "Q16637313",
-      "name": "dairy cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q16637316",
-      "name": "soft cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "soft",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weichkaese%20SoftCheese.jpg"
-    },
-    {
       "id": "Q16670227",
-      "name": "Pivní sýr",
+      "name": "Pivní Sýr",
       "milk": "mixed",
       "country": "Czech Republic",
       "texture": "unknown",
@@ -3272,32 +2631,12 @@
     },
     {
       "id": "Q17006995",
-      "name": "reindeer cheese",
+      "name": "Reindeer Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
       "aliases": [
         "reindeer milk cheese"
-      ],
-      "image": null
-    },
-    {
-      "id": "Q17315183",
-      "name": "Dutch cheese",
-      "milk": "mixed",
-      "country": "Netherlands",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercados%20de%20quesos%20en%20Holanda-2009.JPG"
-    },
-    {
-      "id": "Q17315191",
-      "name": "Italian cheese",
-      "milk": "mixed",
-      "country": "Italy",
-      "texture": "unknown",
-      "aliases": [
-        "Italian cheeses"
       ],
       "image": null
     },
@@ -3312,7 +2651,7 @@
     },
     {
       "id": "Q18468898",
-      "name": "Queijo do Marajó",
+      "name": "Queijo Do Marajó",
       "milk": "mixed",
       "country": "Brazil",
       "texture": "unknown",
@@ -3339,7 +2678,7 @@
     },
     {
       "id": "Q19341080",
-      "name": "queso blanco",
+      "name": "Queso Blanco",
       "milk": "cow",
       "country": "Unknown",
       "texture": "unknown",
@@ -3350,7 +2689,7 @@
     },
     {
       "id": "Q19341521",
-      "name": "camel-milk cheese",
+      "name": "Camel-Milk Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3360,49 +2699,8 @@
       "image": null
     },
     {
-      "id": "Q19341731",
-      "name": "pasteurized milk cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q19359994",
-      "name": "Swiss cheeses",
-      "milk": "mixed",
-      "country": "Switzerland",
-      "texture": "unknown",
-      "aliases": [
-        "cheese from Switzerland",
-        "Swiss cheese"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Affinage%20Gruyere.jpg"
-    },
-    {
-      "id": "Q19361019",
-      "name": "German cheese",
-      "milk": "mixed",
-      "country": "Germany",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q19361017",
-      "name": "British cheese",
-      "milk": "mixed",
-      "country": "United Kingdom",
-      "texture": "unknown",
-      "aliases": [
-        "UK cheese"
-      ],
-      "image": null
-    },
-    {
       "id": "Q19388829",
-      "name": "Goma cheese",
+      "name": "Goma Cheese",
       "milk": "mixed",
       "country": "Democratic Republic of the Congo",
       "texture": "unknown",
@@ -3411,7 +2709,7 @@
     },
     {
       "id": "Q19953055",
-      "name": "bouhezza",
+      "name": "Bouhezza",
       "milk": "mixed",
       "country": "Algeria",
       "texture": "unknown",
@@ -3420,7 +2718,7 @@
     },
     {
       "id": "Q20436647",
-      "name": "Pirotski kačkavalj",
+      "name": "Pirotski Kačkavalj",
       "milk": "mixed",
       "country": "Serbia",
       "texture": "unknown",
@@ -3433,7 +2731,7 @@
     },
     {
       "id": "Q20621652",
-      "name": "Kollumer kaas",
+      "name": "Kollumer Kaas",
       "milk": "mixed",
       "country": "Netherlands",
       "texture": "unknown",
@@ -3442,7 +2740,7 @@
     },
     {
       "id": "Q21086869",
-      "name": "Fromage d'alpage",
+      "name": "Fromage D'Alpage",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3451,7 +2749,7 @@
     },
     {
       "id": "Q25404591",
-      "name": "aarts",
+      "name": "Aarts",
       "milk": "mixed",
       "country": "Mongolia",
       "texture": "unknown",
@@ -3459,28 +2757,8 @@
       "image": null
     },
     {
-      "id": "Q27038733",
-      "name": "Spanish cheese",
-      "milk": "mixed",
-      "country": "Spain",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q27044265",
-      "name": "Greek cheese",
-      "milk": "mixed",
-      "country": "Greece",
-      "texture": "unknown",
-      "aliases": [
-        "cheese of Greece"
-      ],
-      "image": null
-    },
-    {
       "id": "Q28135696",
-      "name": "Serbian cheese",
+      "name": "Serbian Cheese",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3489,7 +2767,7 @@
     },
     {
       "id": "Q28771804",
-      "name": "Kraški ovčji sir",
+      "name": "Kraški Ovčji Sir",
       "milk": "mixed",
       "country": "Slovenia",
       "texture": "unknown",
@@ -3515,46 +2793,6 @@
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20d%27A%C3%AF2.JPG"
     },
     {
-      "id": "Q41713559",
-      "name": "vegetarian cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q46477992",
-      "name": "Kenyan cheese",
-      "milk": "mixed",
-      "country": "Kenya",
-      "texture": "unknown",
-      "aliases": [
-        "Cheese in Kenya"
-      ],
-      "image": null
-    },
-    {
-      "id": "Q46978738",
-      "name": "Polish cheese",
-      "milk": "mixed",
-      "country": "Poland",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/02016%200376%20Satter%2C%20Fest%20in%20Krakau%20-%20Najedzeni%2C%20Fest%20Krak%C3%B3w.JPG"
-    },
-    {
-      "id": "Q47472104",
-      "name": "Lithuanian cheese",
-      "milk": "mixed",
-      "country": "Lithuania",
-      "texture": "unknown",
-      "aliases": [
-        "Lithuanian cheeses"
-      ],
-      "image": null
-    },
-    {
       "id": "Q55753739",
       "name": "Arseniko Naxou",
       "milk": "mixed",
@@ -3565,7 +2803,7 @@
     },
     {
       "id": "Q56317812",
-      "name": "Queso de año",
+      "name": "Queso De Año",
       "milk": "mixed",
       "country": "Venezuela",
       "texture": "unknown",
@@ -3574,7 +2812,7 @@
     },
     {
       "id": "Q65238489",
-      "name": "Kypsytetty juusto",
+      "name": "Kypsytetty Juusto",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3591,33 +2829,6 @@
       "image": null
     },
     {
-      "id": "Q82550420",
-      "name": "slice of cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
-      "id": "Q85991120",
-      "name": "Hutsul bryndza cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20cheese%20production%20ukraine%2002.png"
-    },
-    {
-      "id": "Q91901758",
-      "name": "Cookbook:Cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
-    },
-    {
       "id": "Q92183882",
       "name": "Gioddu",
       "milk": "mixed",
@@ -3627,17 +2838,8 @@
       "image": null
     },
     {
-      "id": "Q17010024",
-      "name": "Egyptian cheese",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Tour%20d%27Afrique%20-%20ArabicCheese.jpg"
-    },
-    {
       "id": "Q542046",
-      "name": "Brousse du Rove",
+      "name": "Brousse Du Rove",
       "milk": "goat",
       "country": "France",
       "texture": "unknown",
@@ -3655,7 +2857,7 @@
     },
     {
       "id": "Q94527984",
-      "name": "Svenska ostar",
+      "name": "Svenska Ostar",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3664,7 +2866,7 @@
     },
     {
       "id": "Q94702029",
-      "name": "Queso herreño",
+      "name": "Queso Herreño",
       "milk": "cow",
       "country": "Spain",
       "texture": "unknown",
@@ -3673,7 +2875,7 @@
     },
     {
       "id": "Q97172601",
-      "name": "testun",
+      "name": "Testun",
       "milk": "goat",
       "country": "Italy",
       "texture": "unknown",
@@ -3682,7 +2884,7 @@
     },
     {
       "id": "Q97274510",
-      "name": "Caciotta di Brugnato",
+      "name": "Caciotta Di Brugnato",
       "milk": "mixed",
       "country": "Italy",
       "texture": "unknown",
@@ -3691,7 +2893,7 @@
     },
     {
       "id": "Q97599035",
-      "name": "Antakya sürkü",
+      "name": "Antakya Sürkü",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -3700,7 +2902,7 @@
     },
     {
       "id": "Q97649599",
-      "name": "Pecorino del Monte Poro",
+      "name": "Pecorino Del Monte Poro",
       "milk": "mixed",
       "country": "Italy",
       "texture": "hard",
@@ -3709,7 +2911,7 @@
     },
     {
       "id": "Q101208157",
-      "name": "dil peyniri",
+      "name": "Dil Peyniri",
       "milk": "mixed",
       "country": "Turkey",
       "texture": "unknown",
@@ -3727,17 +2929,6 @@
         "Aschbach magro"
       ],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aschbach%20magro.jpg"
-    },
-    {
-      "id": "Q104841993",
-      "name": "Swiss-type cheeses",
-      "milk": "mixed",
-      "country": "Unknown",
-      "texture": "unknown",
-      "aliases": [
-        "Alpine cheeses"
-      ],
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marche-aux-puces-Lausanne-004.jpg"
     },
     {
       "id": "Q105411167",
@@ -3759,7 +2950,7 @@
     },
     {
       "id": "Q106300633",
-      "name": "Queijo serrano",
+      "name": "Queijo Serrano",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3780,7 +2971,7 @@
     },
     {
       "id": "Q106689706",
-      "name": "Raclette mineiro",
+      "name": "Raclette Mineiro",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
@@ -3798,21 +2989,12 @@
     },
     {
       "id": "Q92198680",
-      "name": "tomme céronnée",
+      "name": "Tomme Céronnée",
       "milk": "mixed",
       "country": "Unknown",
       "texture": "unknown",
       "aliases": [],
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomme%20C%C3%A9ronn%C3%A9e%20.jpg"
-    },
-    {
-      "id": "Q93521114",
-      "name": "Черничево (сирене)",
-      "milk": "mixed",
-      "country": "Bulgaria",
-      "texture": "unknown",
-      "aliases": [],
-      "image": null
     }
   ]
 }
